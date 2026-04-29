@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/API/">
+    <Project Path="RapidoAPI/RapidoAPI.csproj" />
+  </Folder>
+  <Folder Name="/CLASSLIBRARIES/">
+    <Project Path="Rapido_BusinessEntities/Rapido_BusinessEntities.csproj" />
+    <Project Path="Rapido_DbConnectivity/Rapido_DbConnectivity.csproj" />
+    <Project Path="Rapido_Repositorylayer/Rapido_Repositorylayer.csproj" />
+    <Project Path="Rapido_ServiceLayer/Rapido_ServiceLayer.csproj" />
+  </Folder>
+  <Folder Name="/TESTCASES/">
+    <Project Path="Rapido_UnitTest/Rapido_UnitTest.csproj" />
+  </Folder>
+</Solution>
