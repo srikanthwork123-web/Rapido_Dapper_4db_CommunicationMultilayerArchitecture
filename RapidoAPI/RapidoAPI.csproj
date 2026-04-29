@@ -10,4 +10,10 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Rapido_DbConnectivity\Rapido_DbConnectivity.csproj" />
+    <ProjectReference Include="..\Rapido_Repositorylayer\Rapido_Repositorylayer.csproj" />
+    <ProjectReference Include="..\Rapido_ServiceLayer\Rapido_ServiceLayer.csproj" />
+  </ItemGroup>
+
 </Project>
